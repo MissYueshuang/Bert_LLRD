@@ -1,0 +1,38 @@
+================
+Epoch: 1
+Training loss: 1.4008321037109328
+Training F1 Score (Weighted): 0.5826227873305101
+Train Accuracy Score: 0.611326479015675
+
+Validation loss: 1.177995704576333
+Validation F1 Score (Weighted): 0.5836337082549394
+Validation Accuracy Score: 0.6084905660377359
+
+Epoch: 2
+Training loss: 1.144539056541624
+Training F1 Score (Weighted): 0.6215814933737179
+Train Accuracy Score: 0.641665262093376
+
+Validation loss: 1.1057103402370392
+Validation F1 Score (Weighted): 0.6093190015479435
+Validation Accuracy Score: 0.6273584905660378
+
+Epoch: 3
+Training loss: 1.066261220271536
+Training F1 Score (Weighted): 0.6440416054086608
+Train Accuracy Score: 0.663239507837519
+
+Validation loss: 1.0856632521210334
+Validation F1 Score (Weighted): 0.6204805335822178
+Validation Accuracy Score: 0.6381401617250674
+
+Epoch: 4
+Training loss: 1.0264353193242273
+Training F1 Score (Weighted): 0.6492960444143167
+Train Accuracy Score: 0.6657677397606607
+
+Validation loss: 1.0838310879999093
+Validation F1 Score (Weighted): 0.6173114476745742
+Validation Accuracy Score: 0.6347708894878706
+
+====================

@@ -1,0 +1,74 @@
+================
+Epoch: 1
+Training loss: 1.3517738167316682
+Training F1 Score (Weighted): 0.5598479509365202
+Train Accuracy Score: 0.5460980953986179
+
+Validation loss: 1.1512419860413734
+Validation F1 Score (Weighted): 0.5030536831859542
+Validation Accuracy Score: 0.477088948787062
+
+Epoch: 2
+Training loss: 1.0046068801674792
+Training F1 Score (Weighted): 0.5979420984279469
+Train Accuracy Score: 0.5831788302713635
+
+Validation loss: 1.1180392414965528
+Validation F1 Score (Weighted): 0.5095931024478471
+Validation Accuracy Score: 0.4804582210242588
+
+Epoch: 3
+Training loss: 0.8145795267435813
+Training F1 Score (Weighted): 0.7056632563620295
+Train Accuracy Score: 0.6954323276588572
+
+Validation loss: 1.1684813347268612
+Validation F1 Score (Weighted): 0.5577618001945881
+Validation Accuracy Score: 0.5330188679245284
+
+Epoch: 4
+Training loss: 0.6293814847225784
+Training F1 Score (Weighted): 0.8183104692239354
+Train Accuracy Score: 0.8167874599696612
+
+Validation loss: 1.2672234811681382
+Validation F1 Score (Weighted): 0.6074022913334882
+Validation Accuracy Score: 0.5997304582210242
+
+Epoch: 5
+Training loss: 0.5099777720307791
+Training F1 Score (Weighted): 0.8282367822857913
+Train Accuracy Score: 0.8238665093544582
+
+Validation loss: 1.3248869890862323
+Validation F1 Score (Weighted): 0.590745120282093
+Validation Accuracy Score: 0.5788409703504043
+
+Epoch: 6
+Training loss: 0.4149537414152135
+Training F1 Score (Weighted): 0.8514252913293823
+Train Accuracy Score: 0.8479689870217428
+
+Validation loss: 1.4871670984207315
+Validation F1 Score (Weighted): 0.5862433955331374
+Validation Accuracy Score: 0.5727762803234502
+
+Epoch: 7
+Training loss: 0.3574085426667044
+Training F1 Score (Weighted): 0.8912008036000597
+Train Accuracy Score: 0.8904432833305241
+
+Validation loss: 1.53020888947426
+Validation F1 Score (Weighted): 0.6087732228833402
+Validation Accuracy Score: 0.6017520215633423
+
+Epoch: 8
+Training loss: 0.3139549474161799
+Training F1 Score (Weighted): 0.9054682647275651
+Train Accuracy Score: 0.9049384796898702
+
+Validation loss: 1.569362499612443
+Validation F1 Score (Weighted): 0.612900281350758
+Validation Accuracy Score: 0.6078167115902965
+
+====================

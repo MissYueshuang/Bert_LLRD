@@ -1,0 +1,16 @@
+{
+    "parent_path": "D:\\LYS\\temp files\\BERT\\output_LLRD",
+    "lr": 1e-05,
+    "batch_size": 4,
+    "num_train_epochs": 4,
+    "num_warmup_steps": 50,
+    "max_length": 64,
+    "out_features": 5,
+    "dense_dropout": 0.1,
+    "do_freeze": true,
+    "cut_grad": 1,
+    "gamma": 2,
+    "random_state": 42,
+    "test_size": 0.1,
+    "do_save_model": false
+}
